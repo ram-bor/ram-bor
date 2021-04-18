@@ -4,14 +4,13 @@ I am a Software Engineer ready to complete your full-stack needs. I believe in w
 
 ### Connect with me:
 
-<img src="https://user-images.githubusercontent.com/66038058/115157373-e5ebce80-a056-11eb-8f11-cd7463dfd8d7.png" width="50 height="50"/>
+<img src="https://user-images.githubusercontent.com/66038058/115157373-e5ebce80-a056-11eb-8f11-cd7463dfd8d7.png" width="100 height="100"/>
 
 
 --------
 
 🧰 Toolbox
 
-<img src="https://user-images.githubusercontent.com/66038058/115157445-467b0b80-a057-11eb-8f1e-22b7f46a02e9.png" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/66038058/115157445-467b0b80-a057-11eb-8f1e-22b7f46a02e9.png" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
 --------
