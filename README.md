@@ -11,7 +11,7 @@ Connect with me:
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://user-images.githubusercontent.com/66038058/115157445-467b0b80-a057-11eb-8f1e-22b7f46a02e9.png" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
 --------
