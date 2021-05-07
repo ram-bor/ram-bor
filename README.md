@@ -4,7 +4,7 @@
 
 Take a look at my repositories for projects I am currently working on. More to come soon!
 
-* SE Interests: API building, Backend Architecture, Databases, Cloud services
+* <strong>SE Interests:</strong> API building, Backend Architecture, Databases, Cloud services
 * Non-SE Interests: Vinyl Records, Latinx Cuisine, Coffee, Rock-climbing & Hiking
 * Currently learning/building: Python-Django-PostgreSQL to build a Fitness Training application
 <p>
