@@ -1,4 +1,4 @@
-### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Roberto Ramos! Welcome to my github.
+### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Roberto Ramos!
 
 <p>I'm Software Engineer ready to complete your full-stack needs. I believe in working with ~users~ people by developing rapport and inclusivity through communication and technology. I'm able to adapt and cater my skills and perspective to achieve goals with respect to functionality, performance and extensibility. The passion I carry for designing, developing and deploying applications can be seen in my work and can-do attitude.
 
