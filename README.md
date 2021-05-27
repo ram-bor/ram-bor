@@ -5,6 +5,6 @@
 Take a look at my repositories for projects I am currently working on. More to come soon!
 
 * <strong>SE Interests:</strong> API building, Backend Architecture, Databases, Cloud services
-* <strong>Non-SE Interests:</strong> Vinyl Records, Latinx Cuisine, Coffee, Rock-climbing & Hiking
+* <strong>Non-SE Interests:</strong> Vinyl Records, Worldwide Cuisine, Coffee, Rock-climbing & Hiking
 * <strong>Currently learning/building:</strong> Python-Django-PostgreSQL to build a Fitness Training application
 <p>
