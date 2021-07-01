@@ -1,7 +1,7 @@
 ### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Roberto Ramos!
 
-<strong>Pronouns: He/him</strong>
-<strong>Software Engineer a.k.a. Coding Ninja</strong>
+<p><strong>Pronouns: He/him</strong>
+<p><strong>Software Engineer a.k.a. Coding Ninja</strong>
 
 * <strong>SE Interests:</strong> API building, Backend Architecture, Databases, Cloud services
 * <strong>Non-SE Interests:</strong> Collecting Vintage Vinyl, Worldwide Cuisine, Coffee, Rock-climbing, Hiking & Biking
