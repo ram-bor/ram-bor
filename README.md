@@ -7,6 +7,6 @@ Take a look at my repositories for projects I am currently working on. More to c
 
 * <strong>SE Interests:</strong> API building, Backend Architecture, Databases, Cloud services
 * <strong>Non-SE Interests:</strong> Collecting Vintage Vinyl, Worldwide Cuisine, Coffee, Rock-climbing, Hiking & Biking
-* <strong>I speak English and Spanish, understand a bit of Portuguese & French 
+* <strong>Languages besides "programming": Bilingual and fluent in English and Spanish
 * <strong>Currently building:</strong> Python-Django-PostgreSQL for a Fitness Training app
 <p>
