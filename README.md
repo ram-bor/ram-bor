@@ -1,4 +1,4 @@
-### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Roberto Ramos!
+### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Roberto Ramos!
 
 <p><strong>Pronouns:</strong> He/him
 <p><strong>Software Engineer</strong> a.k.a. <i>Coding Ninja</i>
