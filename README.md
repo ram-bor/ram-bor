@@ -3,7 +3,7 @@
 <p><strong>Pronouns:</strong> He/him
 <p><strong>Software Engineer</strong> a.k.a. <i>Coding Ninja</i>
 
-* <strong>SE Interests:</strong> API building, Backend Architecture, Databases, Front-end Design
+* <strong>SE Interests:</strong> API building, Backend Architecture, Databases
 * <strong>Non-SE Interests:</strong> Collecting Vintage Vinyl, Worldwide Cuisine, Coffee, Rock-climbing, Hiking & Biking
 * <strong>Languages besides "programming":</strong> Bilingual and fluent in English and Spanish 
 * <strong>Currently building:</strong> Python-Django-PostgreSQL for a Fitness Training app
